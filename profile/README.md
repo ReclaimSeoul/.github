@@ -6,6 +6,8 @@ The organization hosts shared datasets, workshop code, design tools, and student
 
 The work connects reclaimed materials, computational design, discrete aggregation, digital cataloguing, and assembly workflows using tools such as **Wasp**, web-based viewers, and experimental AR interfaces.
 
+Official website: https://www.social-algorithms.com/whats-on/2026-unit-3
+
 ## Repositories
 
 This organization may include:
