@@ -31,22 +31,22 @@ Rather than treating material irregularity, variability, and imperfection as pro
 
 The Reclaim Seoul ecosystem is organized around a sequence of connected repositories and tools:
 
-1. **Urban observation**
+1. **Urban observation**  
    Students collect material and urban mining observations across Seoul using field surveys and KoBoToolbox.
 
-2. **Material documentation**
+2. **Material documentation**  
    Reclaimed components are documented as material passports in the **Reclaimed-Material-Bank**, including images, basic dimensions, material type, condition, source, and reuse notes.
 
-3. **Design system development**
+3. **Design system development**  
    Components are abstracted into reusable aggregation logics and stored in **Reclaimed-Design-Systems**.
 
-4. **Design cataloguing**
+4. **Design cataloguing**  
    Final assemblies and spatial proposals are stored in **Reclaimed-Design-Catalog**, linking design metadata, geometry, thumbnails, and system references.
 
-5. **Web visualization**
+5. **Web visualization**  
    Systems and designs are explored through the **Wasp Atlas Explorer** and the public **Reclaim Seoul** website.
 
-6. **Augmented assembly**
+6. **Augmented assembly**  
    Selected assemblies can be prepared for AR-guided construction workflows, supporting part identification, assembly sequencing, and reversible construction logic.
 
 ## Topics
