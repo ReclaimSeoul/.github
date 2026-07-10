@@ -73,8 +73,12 @@ The broader programme investigated what has emerged from Seoul’s social, physi
 
 ## Credits
 
-**AA Visiting School Seoul 2026**
+**AA Visiting School Seoul 2026**  
 **Unit 3: Reclaim Seoul — Combinatorial Material Reuse for a Temporal City**
+
+Hosted by:  
+**Yonsei University**  
+**Social Algorithms Research Group**  
 
 Tutors:  
 **Andrea Rossi** · The Computational Hive, University of Applied Arts Vienna  
