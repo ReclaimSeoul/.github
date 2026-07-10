@@ -1,7 +1,7 @@
 # Reclaim Seoul
 
-**Combinatorial Material Reuse for a Temporal City**
-AA Visiting School Seoul 2026 · Unit 3
+**Combinatorial Material Reuse for a Temporal City**  
+AA Visiting School Seoul 2026 · Unit 3  
 Tutors: **Andrea Rossi + Hyo Wook Kim**
 
 Reclaim Seoul is a digital repository, design archive, and toolkit developed for **Unit 3: Reclaimed Materials** at **AA Visiting School Seoul 2026**.
