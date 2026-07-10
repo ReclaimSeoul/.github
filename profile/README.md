@@ -81,8 +81,8 @@ Hosted by:
 [**Social Algorithms Research Group**](https://www.social-algorithms.com/)
 
 Tutors:  
-**Andrea Rossi** · The Computational Hive, University of Applied Arts Vienna  
-**Hyo Wook Kim** · University of Kassel  
+**Andrea Rossi** · [The Computational Hive](thecomputationalhive.com/), University of Applied Arts Vienna  
+**Hyo Wook Kim** · [University of Kassel - EDEK](https://www.uni-kassel.de/go/edek)
 
 Partners:  
 [**Seoul Upcycling Plaza**](https://www.seoulup.or.kr/)  
