@@ -84,9 +84,9 @@ Tutors:
 **Hyo Wook Kim** · [University of Kassel - EDEK](https://www.uni-kassel.de/go/edek)
 
 Partners:  
-[**Seoul Upcycling Plaza**](https://www.seoulup.or.kr/)  
-[**Younhyun Material Library**](https://www.younhyun.com/html/)  
-[**Roger Winkler**](https://www.rogerwinkler.de/)  
+**Seoul Upcycling Plaza:** [Website](https://www.seoulup.or.kr/)  
+**Younhyun Material Library:** [Website](https://www.younhyun.com/html/)  
+**Roger Winkler:** [Website](https://www.rogerwinkler.de/), [Github](https://github.com/winroger/)  
 
 Developed with the students of AAVS Seoul 2026:  
 **Ji-hyeon Baek, Seungchan Baek, Jahan Choe, Seunghyuk Hyun, SeoRin Kweon, Doi Park, Yeunhae Park (Ben), Ceren Yuksel.**
