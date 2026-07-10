@@ -76,9 +76,8 @@ The broader programme investigated what has emerged from Seoul’s social, physi
 **AA Visiting School Seoul 2026**
 **Unit 3: Reclaim Seoul — Combinatorial Material Reuse for a Temporal City**
 
-Tutors:
-**Andrea Rossi** · The Computational Hive, University of Applied Arts Vienna
-
-**Hyo Wook Kim** · University of Kassel
+Tutors:  
+**Andrea Rossi** · The Computational Hive, University of Applied Arts Vienna  
+**Hyo Wook Kim** · University of Kassel  
 
 Developed with the students of AAVS Seoul 2026: Ji-hyeon Baek, Seungchan Baek, Jahan Choe, Seunghyuk Hyun, SeoRin Kweon, Doi Park, Yeunhae Park (Ben), Ceren Yuksel.
