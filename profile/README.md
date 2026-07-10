@@ -25,7 +25,6 @@ Rather than treating material irregularity, variability, and imperfection as pro
 | **Reclaimed-Design-Systems** | Collection of reusable aggregation and design systems developed during the workshop. Each system stores metadata, aggregation data, thumbnails, and generated documentation.              | [Repository](https://github.com/ReclaimSeoul/Reclaimed-Design-Systems)                                                      |
 | **Reclaimed-Design-Catalog** | Catalog of final design outputs and assembled proposals generated from the design systems. Prepared for browsing, Wasp Atlas visualization, and AR-guided assembly workflows in HiveLens. | [Repository](https://github.com/ReclaimSeoul/Reclaimed-Design-Catalog)                                                      |
 | **Wasp-Atlas-Explorer**      | Workshop-specific version of the Wasp Atlas Explorer for browsing and visualizing Reclaim Seoul design systems in the browser.                                                            | [Repository](https://github.com/ReclaimSeoul/Wasp-Atlas-Explorer) · [Live Atlas](https://reclaimseoul.github.io/Atlas/)     |
-| **.github**                  | Organization profile and shared GitHub configuration.                                                                                                                                     | [Repository](https://github.com/ReclaimSeoul/.github)                                                                       |
 
 ## Workflow
 
