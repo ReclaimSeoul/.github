@@ -78,13 +78,13 @@ The broader programme investigated what has emerged from Seoul’s social, physi
 
 Hosted by:  
 **Yonsei University**  
-**Social Algorithms Research Group**  
+[**Social Algorithms Research Group**](https://www.social-algorithms.com/)
 
 Tutors:  
 **Andrea Rossi** · The Computational Hive, University of Applied Arts Vienna  
 **Hyo Wook Kim** · University of Kassel  
 
-Partners:
+Partners:  
 [**Seoul Upcycling Plaza**](https://www.seoulup.or.kr/)  
 [**Younhyun Material Library**](https://www.younhyun.com/html/)  
 [**Roger Winkler**](https://www.rogerwinkler.de/)  
